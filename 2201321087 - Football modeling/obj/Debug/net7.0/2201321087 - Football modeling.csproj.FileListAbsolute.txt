@@ -1,0 +1,15 @@
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\bin\Debug\net7.0\2201321087 - Football modeling.exe
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\bin\Debug\net7.0\2201321087 - Football modeling.deps.json
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\bin\Debug\net7.0\2201321087 - Football modeling.runtimeconfig.json
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\bin\Debug\net7.0\2201321087 - Football modeling.dll
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\bin\Debug\net7.0\2201321087 - Football modeling.pdb
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.csproj.AssemblyReference.cache
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.AssemblyInfoInputs.cache
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.AssemblyInfo.cs
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.dll
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\refint\2201321087 - Football modeling.dll
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.pdb
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\2201321087 - Football modeling.genruntimeconfig.cache
+C:\Users\white\OneDrive\Desktop\2201321087 - Football modeling\obj\Debug\net7.0\ref\2201321087 - Football modeling.dll
